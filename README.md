@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **CSS,Flutter**
 
-- 📫 How to reach me **aniketpagedar18@gmail**
+- 📫 How to reach me **aniketpagedar18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
