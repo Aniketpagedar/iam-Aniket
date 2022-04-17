@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **Flutter,Django,Advancejava**
+- 🌱 I’m currently learning **Flutter,Django, JavaScriptframeworks**
 
 - 💬 Ask me about **CSS,Flutter**
 
